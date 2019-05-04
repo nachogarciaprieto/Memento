@@ -41,6 +41,7 @@ El [proyecto](https://github.com/thertejada/Memento/tree/master/ProyectoJavaMeme
 
 # 📋MVC (Modelo Vista Controlador)
 Este modelo separa la lógica de una aplicación de la presentación de la presentación o interfaz de usuario.
+
 [Enlace a explicación](https://github.com/thertejada/Memento/blob/master/ProyectoMVC/MVC.pdf)
 
 
